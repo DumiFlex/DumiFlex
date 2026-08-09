@@ -83,5 +83,4 @@ fun fact:    learned to code from docs before AI was a thing
 | project | what |
 |---|---|
 | **[ComfyUI Wildcard Pipeline](https://github.com/DumiFlex/ComfyUI-Wildcard-Pipeline)** | open-source ComfyUI plugin · weighted wildcards + chained modules · published on the official registry 🌸 |
-| **wildcard pipeline v2** | full rewrite — bundle system, drift detection, SQLite library 🛠️ *(in progress)* |
 | **discord bots** | custom bots in Node.js · learned from docs before AI tools existed 🤖 |
