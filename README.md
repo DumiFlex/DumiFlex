@@ -16,8 +16,7 @@
 
 ```yaml
 name:        dumiflex
-location:    bucharest, romania 🇷🇴
-studying:    economic informatics @ ase (CSIE)
+location:    berlin, germany 🇩🇪
 focused on:  TypeScript · Vue · Node · Python
 side quest:  shipping ComfyUI Wildcard Pipeline
 status:      🟢 open to junior dev roles
@@ -69,12 +68,6 @@ fun fact:    learned to code from docs before AI was a thing
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-🤖 **AI co-pilots**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-1F2328?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
